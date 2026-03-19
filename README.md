@@ -12,7 +12,8 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 
 # NETWORK DIAGRAM
-![Uploading image.png…]()
+<img width="1586" height="777" alt="image" src="https://github.com/user-attachments/assets/b559fe38-0528-414a-aacc-055f4a327889" />
+
 
 
 
@@ -28,8 +29,8 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
-![Uploading image.png…]()
-
+<img width="1593" height="779" alt="image" src="https://github.com/user-attachments/assets/1c8eda38-b52b-47cd-8a24-592e02d03edc" />
+<img width="1586" height="777" alt="image" src="https://github.com/user-attachments/assets/fe388eeb-0d4d-48a5-9fcf-0317edd6adf0" />
 
 
 # RESULT
